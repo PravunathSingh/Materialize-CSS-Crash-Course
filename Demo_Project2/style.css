@@ -1,0 +1,38 @@
+.navbar-wrapper {
+  padding-bottom: 30px !important;
+}
+
+.section-search input {
+  padding: 5px 10px !important;
+  font-size: 18px !important;
+  width: 90%;
+  border: 3px solid #f4f4f4 !important;
+  border-radius: 5px !important;
+}
+
+.section-icons {
+  margin-top: 30px !important;
+}
+
+.section-follow .fa-4x {
+  margin: 7px 13px;
+}
+
+.heading {
+  margin-bottom: 40px !important;
+}
+
+.responsive-img {
+  border-radius: 5px !important;
+}
+
+@media (max-width: 648px) {
+  .responsive-img {
+    margin-bottom: 30px !important;
+  }
+}
+
+.btn {
+  display: block !important;
+  width: 100%;
+}
